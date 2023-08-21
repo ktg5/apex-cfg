@@ -23,5 +23,5 @@ When you run the autoexec, these actions can't be undone, sorry!
 ## So what does this do/change?
 - Change crosshair color & color-blind mode when moving left or right.
 - Bind `X` for BOTH Destorying spikes & reinforcing doors for my Catalyst mains out there.
-- 110 FOV "patch"
+- 120 FOV "patch"
 - Audio patches
