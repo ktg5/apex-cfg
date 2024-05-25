@@ -2,11 +2,11 @@
 
 ## Stable build: [1000](https://github.com/ktg5/apex-cfg/releases)
 
-## Dev build: [1000](https://github.com/ktg5apex-cfg/archive/master.zip)
+## Dev build: [1001](https://github.com/ktg5apex-cfg/archive/master.zip)
 
 the autoexec i use for apex
 
-You may edit this autoexec/cfg to fit your playstyle if you need to or don't like something about this.
+You may edit this autoexec/cfg to fit your playstyle if you'd like to or don't like something about this.
 
 ## IMPORTANT NOTICE BEFORE INSTALLING!!!
 This autoexec will overwrite your Apex Legends controls! Please back them up by going to `C:\Users\[your-username-here]\Saved Games\Respawn\Apex` and save everything inside there. These files include your graphic settings, controls & keybinds, and everything else.
@@ -22,6 +22,7 @@ When you run the autoexec, these actions can't be undone, sorry!
 
 ## So what does this do/change?
 - Change crosshair color & color-blind mode when moving left or right.
-- Bind `X` for BOTH Destorying spikes & reinforcing doors for my Catalyst mains out there.
+- Bind `X` for BOTH destorying spikes & reinforcing doors for my Catalyst mains out there.
 - 120 FOV "patch"
 - Audio patches
+- Zoomed sensitivity settings (Should be changed if making a big `mouse_sensitivity` adjustment)
